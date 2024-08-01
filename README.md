@@ -41,6 +41,13 @@ The provided scripts were instrumental in creating annotations and preparing the
 
 ## Installation
 Install python 3.10 and requred libraries listed in ```requirements.txt```.
+The raw drone data has been divided into two repositories available at these links:
+  - raw drone sensing data - 1: https://zenodo.org/records/12943015
+  - raw drone sensing data - 2:  https://zenodo.org/records/12924461 
+
+The dataset used for detection is available at https://zenodo.org/records/13121962.
+The trained models are available at https://zenodo.org/records/13149720.
+
 
 ## Documentation
 
