@@ -1,0 +1,32 @@
+{
+  "title":"Olive Tree Detection",
+  "creator": "TAAL",
+  "date": "1/8/2024",
+  "icon":"https://github.com/ICAERUS-EU/Olive-Tree-Detection/ico.jpg?raw=true",
+  "url": "https://github.com/ICAERUS-EU/Olive-Tree-Detection",
+  "icaerus_applications": ["crop-monitoring"],
+  "uses_cases":["OCT"],
+  "extra":{
+      "usage/description": "Training and validation of a detection model for olive trees using YOLO"
+  },
+  "filters":{
+      "content": [
+          "Vegetation Index",
+          "Orthomosaic processing toolbox"
+          ],  
+      "data-type": [
+          "Multispectral images",
+          "RGB images",
+          "Orthomosaic"
+      ], 
+
+      "subject": [
+          "Disease detection",
+        "Olive groves",
+      ],
+
+      "location": [
+          "Italy"
+          ]
+        }
+    }
